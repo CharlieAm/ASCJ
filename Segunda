@@ -1,8 +1,8 @@
 int numero1 = 0;
 int numero2 = 0;
   
-System.out.println("Introduce tu primer número:");      
+System.out.println("Introduce primer número:");      
 numero1 = reader.nextInt();
       
-System.out.println("Introduce tu segundo número:");
+System.out.println("Introduce segundo número:");
 numero2 = reader.nextInt();
